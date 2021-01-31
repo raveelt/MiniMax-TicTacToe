@@ -1,6 +1,9 @@
 # MiniMax-TicTacToe
  Minimax algorithm designed to play tictactoe without losing - HarvardEdx Challenge Project
 
+![](Visual.gif)
+
+
 #tictactoe game (runner.py) was provided by HarvardEdx
 
 The challenge project was to write all the functions that made it possible for the computer to play the game
