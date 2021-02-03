@@ -7,6 +7,7 @@
 #tictactoe game (runner.py) was provided by HarvardEdx
 
 The challenge project was to write all the functions that made it possible for the computer to play the game
+
 All functions written by me can be found in tictactoe.py
 
 requirements to run:
